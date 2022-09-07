@@ -1,14 +1,8 @@
 MEET ZACHARY TYLER GEXLER(ME DUH)!
 
-
-![giphy](https://user-images.githubusercontent.com/110911839/188940034-2fdcd4c5-5555-4ce3-9f2e-654b3a4de63f.gif)
-
-Lover of all things space, interstellar, politics, media and the journey of life.
-
 "You enjoy the journey as much as the destination. Each has its own absolute perfection."
 
 ![rocket](https://user-images.githubusercontent.com/110911839/188941582-25fc60b7-2e83-4e4f-b385-3756ed103d0d.gif)
-
 
 
 👩🏽‍🏫 I am an experienced accountManager that has worked with several teams of diverse experts.
@@ -40,3 +34,8 @@ Python
 Flask 
 Express.js 
 MongoDB..
+
+
+![giphy](https://user-images.githubusercontent.com/110911839/188940034-2fdcd4c5-5555-4ce3-9f2e-654b3a4de63f.gif)
+
+Lover of all things space, interstellar, politics, media and the journey of life.
