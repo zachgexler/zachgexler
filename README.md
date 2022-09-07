@@ -1,4 +1,4 @@
-MEET ZACHARY TYLE GEXLER III
+MEET ZACHARY TYLER GEXLER(ME DUH)!
 
 
 ![giphy](https://user-images.githubusercontent.com/110911839/188940034-2fdcd4c5-5555-4ce3-9f2e-654b3a4de63f.gif)
