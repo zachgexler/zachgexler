@@ -5,7 +5,7 @@ MEET ZACHARY TYLER GEXLER!
 ![rocket](https://user-images.githubusercontent.com/110911839/188941582-25fc60b7-2e83-4e4f-b385-3756ed103d0d.gif)
 
 
-👩🏽‍🏫 I am an experienced accountManager that has worked with several teams of diverse experts.
+👩🏽‍🏫 I am an experienced accountManager that has worked with several teams_of_diverse_experts.
 
 🎓 Currently I am enrolled at General Assembly and taking an Immersive Software Development course.
 
