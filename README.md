@@ -7,7 +7,7 @@ MEET ZACHARY TYLER GEXLER!
 
 👩🏽‍🏫 I am an experienced accountManager that has worked with several teams_of_diverse_experts.
 
-🎓 Currently I am enrolled at General Assembly and taking an Immersive Software Development course.
+🎓 Currently I am enrolled at General Assembly and taking an Immersive Software Development course (over 320 hours of intensive learning so far...).
 
 🌱 When I am not infront of the computer, I love to explore the outdoors, travel the world, nap on Sundays and learn new skills.
 
