@@ -1,4 +1,4 @@
-MEET ZACHARY TYLER GEXLER(ME DUH)!
+MEET ZACHARY TYLER GEXLER!
 
 "You enjoy the journey as much as the destination. Each has its own absolute perfection."
 
