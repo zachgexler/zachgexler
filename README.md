@@ -1,6 +1,6 @@
 Welcome! Stay a while. Meet me in my coding world...
 
-Lover of all things space, interstellar, politics, media and the journey of life.
+Lover of all things space, interstellar, politics, media, history, pop culture and the journey of life.
 
 "You enjoy the journey as much as the destination. Each has its own absolute perfection." - Marc Allen
 
