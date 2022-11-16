@@ -6,7 +6,7 @@ Lover of all things space, interstellar, politics, media, history, pop culture a
 
 ![rocket](https://user-images.githubusercontent.com/110911839/188941582-25fc60b7-2e83-4e4f-b385-3756ed103d0d.gif)
 
-🎓 Currently I just completed an Immersive Software Development course with General Assembly. 420 Hour Certificate.
+🎓 As of 10.31.2022 I completed an Immersive Software Development course with General Assembly. 420 Hour Certificate.
 
 🛸 General Assembly has set me up for immediate success. I love the functionality of Python & Django, but will forever be a JS stan.
 
@@ -14,7 +14,7 @@ Lover of all things space, interstellar, politics, media, history, pop culture a
 
 🌱 When I am not infront of the computer, I love to explore the outdoors, travel the world, nap on Sundays and learn new things.
 
-👩🏾‍💻 100 Days of Code start date: August 8, 2022.
+👩🏾‍💻 100 Days of Code start date: August 8, 2022 - November 16, 2022....2 days to go!
 
 Languages I speak...
 
@@ -35,3 +35,5 @@ GitHub
 Express.js 
 MongoDB
 Postman
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=madushadhanushka&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
