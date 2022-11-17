@@ -6,7 +6,7 @@ Lover of all things space, interstellar, politics, media, history, pop culture a
 
 ![rocket](https://user-images.githubusercontent.com/110911839/188941582-25fc60b7-2e83-4e4f-b385-3756ed103d0d.gif)
 
-🎓 As of 10.31.2022 I completed an Immersive Software Development course with General Assembly. 420 Hour Certificate.
+🎓 As of 10.31.2022 I completed a Software Engineer Immersive course with General Assembly's 420 Hour Certificate.
 
 🛸 General Assembly has set me up for immediate success. I love the functionality of Python & Django, but will forever be a JS stan.
 
