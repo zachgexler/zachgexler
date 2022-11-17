@@ -55,7 +55,7 @@ Postman
 PostgreSQL
 
 
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+![Snake animation](https://github.com/zachgexler/github-readme/blob/output/github-contribution-snake.svg)
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=zachgexler&theme=react-dark&hide_border=true&area=true)
 
