@@ -65,4 +65,7 @@ PostgreSQL
 
 <img src="https://profile-counter.glitch.me/{zachgexler}/count.svg" alt="zachgexler :: Visitor's Count" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zachgexler&theme=tokyonight" alt="mystreak"/>
+
+
 
