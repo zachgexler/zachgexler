@@ -18,30 +18,42 @@ Lover of all things space, interstellar, politics, media, history, pop culture a
 
 Languages I speak...
 
-Python 
+Python
+
 Javascript
+
 React
+
 Django
+
 NodeJS
+
 HTML5
+
 CSS3
 
 Other things I know...
 
 SQL
+
 Bootstrap
-Visual Studio Code 
+
+Materialize
+
+Sass
+
+Visual Studio Code
+
 GitHub
-Express.js 
+
+Express.js
+
 MongoDB
+
 Postman
+
 PostgreSQL
 
-
-
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zachgexler&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=zachgexler&theme=juicyfresh&no-bg=true" />
 
