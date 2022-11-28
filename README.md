@@ -14,7 +14,7 @@ Lover of all things space, interstellar, politics, media, history, pop culture a
 
 🌱 When I am not infront of the computer, I love to explore the outdoors, travel the world, nap on Sundays and learn new things.
 
-👩🏾‍💻 100 Days of Code start date: August 8, 2022 - November 16, 2022....2 days to go!
+👩🏾‍💻 100 Days of Code start date: August 8, 2022 - November 16, 2022! COMPLETE!
 
 Languages I speak...
 
